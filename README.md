@@ -21,7 +21,9 @@ Our vision is to completely eliminate manual paperwork in local martial arts clu
 ### Contract's screenshots
 ![screenshot](https://github.com/user-attachments/assets/11833bc4-0444-42cf-b77f-7b78c3ec6ac1)
 
-![screenshot](https://github.com/user-attachments/assets/b0001291-38f9-4253-af92-a046ffa769a9)
+![screenshot](https://github.com/user-attachments/assets/b0001291-38f9-4253-af92-a046ffa769a9](https://github.com/user-attachments/assets/1a8ce0a6-35b4-4d26-8d9c-677f130d62aa)
+
+<img width="1862" height="881" alt="image" src="https://github.com/user-attachments/assets/1a8ce0a6-35b4-4d26-8d9c-677f130d62aa" />
 
 # Future scopes
 - Implement a web-based UI (using React.js and Freighter API) for the instructor to easily scan student QR codes for instant attendance logging.
